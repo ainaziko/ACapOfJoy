@@ -51,7 +51,9 @@ Backend system for a cafetheria of desserts and drinks. All API endpoints are se
 <ul>
   <li><a href="https://dessert-shop.herokuapp.com/swagger-ui.html#/">Api Documentation</a></li>
 </ul>
-Note that you can access the documentation only after authorisation.
+Note that you can access the documentation only after authorisation.</br>
+
+
 ## Screenshots
 ### User Authentication
  <div align="center"> <img src="screenshots/auth.png" width="90%" /> </div>
