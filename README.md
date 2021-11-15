@@ -8,7 +8,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#stack-of-technologies">Stack of Technologies</a></li>
       </ul>
     </li>
     <li>
