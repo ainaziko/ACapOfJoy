@@ -22,7 +22,7 @@
 <hr>
 
 ## About the project
-Backend system for a cafetheria of desserts and drinks. MVC architecture is used. All API endpoints are secured. There is a user registration and authorisation. There are two roles: Admin and client. Authentication is set up in configurations. Passwords in database are encrypted.
+Backend system for a cafetheria of desserts and drinks. MVC architecture is used. All API endpoints are secured. There is a user registration and authorisation with JWT Token. There are two roles: Admin and client. Authentication is set up in configurations. Passwords in database are encrypted.
 
 
 ### Stack of Technologies
